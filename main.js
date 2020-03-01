@@ -34,6 +34,12 @@ class item {
     itemBox.appendChild(input);
     itemBox.appendChild(editButton);
     itemBox.appendChild(removeButton);
+
+    editButton.addEventListener('click', () => this.edit(input));
+  }
+
+  edit(input){
+    input.disabled = !input.disabled;
   }
 }
 

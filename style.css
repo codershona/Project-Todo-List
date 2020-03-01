@@ -93,6 +93,7 @@ font-family: 'Hind', sans-serif ;
   outline: none;
   color: lime;
   border: none;
+  cursor: pointer;
 }
 
 .removeButton {
@@ -103,4 +104,5 @@ font-family: 'Hind', sans-serif ;
   outline: none;
   color: #E00;
   border: none;
+  cursor: pointer;
 }
