@@ -1,3 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
-  
+  height: 100%;
+  background-color: #6f5656;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 50;
+  margin: 1rem 0 3rem;
+  text-align: center;
+  color: #fff;
+}
+
+.styling {
+  font-weight: 800;
+  color: lime;
 }
