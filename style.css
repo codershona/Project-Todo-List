@@ -15,9 +15,14 @@ h1 {
   margin: 1rem 0 3rem;
   text-align: center;
   color: #fff;
+  font-family: 'Hind', sans-serif ;
 }
 
 .styling {
   font-weight: 800;
   color: lime;
+}
+
+.input_div {
+  
 }
